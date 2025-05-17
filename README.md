@@ -10,12 +10,12 @@
 
 ## Detalhes do Dataset
 
-Nome: Gender Classification
-Fonte: Kaggle
-Tarefa: Classificação
-Quantidade de amostras: 5001
-Quantidade de features: 8
-Link: https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset
+* Nome: Gender Classification
+* Fonte: Kaggle
+* Tarefa: Classificação
+* Quantidade de amostras: 5001
+* Quantidade de features: 8
+* Link: https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset
 
 ## Requisitos
 
